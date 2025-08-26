@@ -1,2 +1,2 @@
 # Coba
-Gak taawu
+Version 1-0
